@@ -1,0 +1,28 @@
+/* Hero background image */
+.hero-bg {
+  background-image: url('images/image3.png');
+}
+
+/* Gradient overlay on hero */
+.gradient-overlay {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(255, 255, 255, 0.6) 25.71%,
+    #ffffff 38.55%
+  );
+}
+
+/* Promo section background image */
+.promo-bg {
+  background-image: url('images/lampe.png');
+}
+
+/* Input and button border radius moved to Tailwind classes for consistency */
+/* But since some inputs use inline styles for width/height, we keep that */
+
+/* For image sizes inside testimonial */
+img[alt="Josh Smith"] {
+  width: 80px;
+  height: 80px;
+}
