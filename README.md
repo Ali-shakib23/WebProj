@@ -20,3 +20,10 @@ WebFurniture/
 ├── index.html           # Main HTML file
 ├── styles/              # Optional: Tailwind config or custom styles
 └── README.md            # This file
+
+
+## Video:
+
+
+https://github.com/user-attachments/assets/b9d1fa4e-4bd8-4ed8-bc24-6f5aac12582b
+
