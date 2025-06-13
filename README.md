@@ -25,5 +25,4 @@ WebFurniture/
 ## Video:
 
 
-https://github.com/user-attachments/assets/b9d1fa4e-4bd8-4ed8-bc24-6f5aac12582b
 
